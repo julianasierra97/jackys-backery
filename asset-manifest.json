@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jackys-backery/static/css/main.3c83526e.chunk.css",
+    "main.js": "/jackys-backery/static/js/main.d45364cf.chunk.js",
+    "main.js.map": "/jackys-backery/static/js/main.d45364cf.chunk.js.map",
+    "runtime-main.js": "/jackys-backery/static/js/runtime-main.4e6d04ba.js",
+    "runtime-main.js.map": "/jackys-backery/static/js/runtime-main.4e6d04ba.js.map",
+    "static/js/2.6067e647.chunk.js": "/jackys-backery/static/js/2.6067e647.chunk.js",
+    "static/js/2.6067e647.chunk.js.map": "/jackys-backery/static/js/2.6067e647.chunk.js.map",
+    "index.html": "/jackys-backery/index.html",
+    "precache-manifest.ee3378745f171f2691cfa0cdffaacb77.js": "/jackys-backery/precache-manifest.ee3378745f171f2691cfa0cdffaacb77.js",
+    "service-worker.js": "/jackys-backery/service-worker.js",
+    "static/css/main.3c83526e.chunk.css.map": "/jackys-backery/static/css/main.3c83526e.chunk.css.map",
+    "static/js/2.6067e647.chunk.js.LICENSE.txt": "/jackys-backery/static/js/2.6067e647.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e6d04ba.js",
+    "static/js/2.6067e647.chunk.js",
+    "static/css/main.3c83526e.chunk.css",
+    "static/js/main.d45364cf.chunk.js"
+  ]
+}
