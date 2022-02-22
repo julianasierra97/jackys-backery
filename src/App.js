@@ -11,13 +11,14 @@ import Contact from "./pages/Contact";
 import NavBar from "./components/NavBar";
 import Menu from "./pages/Menu";
 import Home from "./pages/Home";
+import Products from "./pages/Products";
 
 let theme = createTheme({
     palette: {
         primary: {
             main: "#856c7e"
         },
-        secondary:{
+            secondary:{
             main: "#f6dae0"
         }
     },
@@ -52,6 +53,9 @@ function App() {
                       <Route path="/menu" element={<Menu/>}/>
                       <Route path="/about" element={<About/>}/>
                       <Route path="/contact" element={<Contact/>}/>
+                      <Route path="/tortas" element={<Products items ={"tortas"}/>}/>
+                      <Route path="/bites" element={<Products items ={"bites"} />}/>
+                      <Route path="/postres" element={<Products items ={"postres"} />}/>
                   </Routes>
               </div>
           </Router>
