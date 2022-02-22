@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jackys-backery/precache-manifest.ee3378745f171f2691cfa0cdffaacb77.js"
+  "/jackys-backery/precache-manifest.7fec57865df53b2501d18a46451c13cd.js"
 );
 
 self.addEventListener('message', (event) => {
