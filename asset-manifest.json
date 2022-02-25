@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jackys-backery/static/css/main.3c83526e.chunk.css",
-    "main.js": "/jackys-backery/static/js/main.5ac59d5d.chunk.js",
-    "main.js.map": "/jackys-backery/static/js/main.5ac59d5d.chunk.js.map",
+    "main.js": "/jackys-backery/static/js/main.c3495ea8.chunk.js",
+    "main.js.map": "/jackys-backery/static/js/main.c3495ea8.chunk.js.map",
     "runtime-main.js": "/jackys-backery/static/js/runtime-main.4e6d04ba.js",
     "runtime-main.js.map": "/jackys-backery/static/js/runtime-main.4e6d04ba.js.map",
-    "static/js/2.ce495ec0.chunk.js": "/jackys-backery/static/js/2.ce495ec0.chunk.js",
-    "static/js/2.ce495ec0.chunk.js.map": "/jackys-backery/static/js/2.ce495ec0.chunk.js.map",
+    "static/js/2.c18b8075.chunk.js": "/jackys-backery/static/js/2.c18b8075.chunk.js",
+    "static/js/2.c18b8075.chunk.js.map": "/jackys-backery/static/js/2.c18b8075.chunk.js.map",
     "index.html": "/jackys-backery/index.html",
-    "precache-manifest.2f46ac84179f11431e0200968a44b786.js": "/jackys-backery/precache-manifest.2f46ac84179f11431e0200968a44b786.js",
+    "precache-manifest.cd95d763d70d48d7a3a206462f124299.js": "/jackys-backery/precache-manifest.cd95d763d70d48d7a3a206462f124299.js",
     "service-worker.js": "/jackys-backery/service-worker.js",
     "static/css/main.3c83526e.chunk.css.map": "/jackys-backery/static/css/main.3c83526e.chunk.css.map",
-    "static/js/2.ce495ec0.chunk.js.LICENSE.txt": "/jackys-backery/static/js/2.ce495ec0.chunk.js.LICENSE.txt",
+    "static/js/2.c18b8075.chunk.js.LICENSE.txt": "/jackys-backery/static/js/2.c18b8075.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/jackys-backery/static/media/logo.605a87dc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4e6d04ba.js",
-    "static/js/2.ce495ec0.chunk.js",
+    "static/js/2.c18b8075.chunk.js",
     "static/css/main.3c83526e.chunk.css",
-    "static/js/main.5ac59d5d.chunk.js"
+    "static/js/main.c3495ea8.chunk.js"
   ]
 }
