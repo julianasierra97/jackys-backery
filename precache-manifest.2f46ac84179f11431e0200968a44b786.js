@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75120333750e96891ec7645e5d79672c",
+    "revision": "1b25c62db1e72ac620f553adc0da3c14",
     "url": "/jackys-backery/index.html"
   },
   {
-    "revision": "0c8f4b80a23e750deb28",
+    "revision": "753c2edc5c36d42424a9",
     "url": "/jackys-backery/static/css/main.3c83526e.chunk.css"
   },
   {
-    "revision": "4935582cae1772b372a5",
-    "url": "/jackys-backery/static/js/2.2b8c3f4a.chunk.js"
+    "revision": "2e0009dd8b31b0961b9c",
+    "url": "/jackys-backery/static/js/2.ce495ec0.chunk.js"
   },
   {
     "revision": "9904f83efb0acca631bc2995d50e9d2a",
-    "url": "/jackys-backery/static/js/2.2b8c3f4a.chunk.js.LICENSE.txt"
+    "url": "/jackys-backery/static/js/2.ce495ec0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c8f4b80a23e750deb28",
-    "url": "/jackys-backery/static/js/main.5a65d95e.chunk.js"
+    "revision": "753c2edc5c36d42424a9",
+    "url": "/jackys-backery/static/js/main.5ac59d5d.chunk.js"
   },
   {
     "revision": "13798f4e37cfc3f168fc",
