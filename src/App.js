@@ -12,6 +12,7 @@ import NavBar from "./components/NavBar";
 import Menu from "./pages/Menu";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
+import Footer from "./components/Footer";
 
 let theme = createTheme({
     palette: {
@@ -27,13 +28,18 @@ let theme = createTheme({
             fontFamily:'Dancing Script',
             fontSize: 50
         },
-        h2:{
+        h2: {
             fontFamily:'Dancing Script',
             fontSize: 20
         },
-        h3:{
+        h3: {
             fontFamily: 'Raleway',
             fontSize: 30,
+            fontWeight:"bold"
+        },
+        h4: {
+            fontFamily: 'Raleway',
+            fontSize: 20,
             fontWeight:"bold"
         }
     },
@@ -46,10 +52,10 @@ function App() {
       <ThemeProvider theme={theme}>
           <Router>
               <NavBar/>
-              <div style={{height:"150px"}}/>
+              <div style={{height:"200px"}}/>
               <div>
                   <Routes>
-                      <Route path="/" element={<Home/>}/>
+                      <Route path="" element={<Home/>}/>
                       <Route path="/menu" element={<Menu/>}/>
                       <Route path="/about" element={<About/>}/>
                       <Route path="/contact" element={<Contact/>}/>
@@ -58,6 +64,7 @@ function App() {
                       <Route path="/postres" element={<Products items ={"postres"} />}/>
                   </Routes>
               </div>
+              <Footer/>
           </Router>
       </ThemeProvider>
   );

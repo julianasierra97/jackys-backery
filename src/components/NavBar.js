@@ -5,7 +5,7 @@ import logo from './logo.png';
 
 const SiteAppBar = styled(AppBar)(({ theme }) => ({
     backgroundColor: theme.palette.secondary.main,
-    color: theme.palette.secondary,
+    textColor: theme.palette.secondary,
 }));
 
 
